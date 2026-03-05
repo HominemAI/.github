@@ -1,2 +1,1 @@
-# .github
-Hominem
+# Hominem.ai
